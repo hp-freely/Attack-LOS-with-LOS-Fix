@@ -1,3 +1,8 @@
+Download Instructions:
+1. Click "AttackLOS_los_fix.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
+
 # Attack LOS with LOS Fix
 Creates a dynamic potential team waypoint on the map based on where your mouse cursor is pointing when you press the assigned keybind.
 
